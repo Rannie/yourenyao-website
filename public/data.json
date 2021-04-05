@@ -43,6 +43,12 @@
       "requirement": "快手电商客户端团队招人, iOS、安卓大量HC, C端、B端、架构三大方向, 与风口业务一同成长, 欢迎来聊",
       "city": ["北京","杭州", "深圳"],
       "wechat": "cuin9999"
+    },
+    {
+      "title": "QQ - 客户端基础研发",
+      "requirement": "手 Q 基础团队，招 iOS - T9/T10/T11。我们负责手 Q 基础架构和工程效能的建设，包含网络通道、消息框架、动态化、Flutter 开源协同、以及性能和稳定性优化等。团队同时负责 iPad、Apple Watch 的适配，并率先将 Catalyst 技术落地 MacQQ。欢迎加入 QQ 基础团队，探索无限可能。",
+      "city": ["深圳"],
+      "wechat": "yulingtianxia"
     }
   ]
 }
