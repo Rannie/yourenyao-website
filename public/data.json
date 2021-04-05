@@ -49,6 +49,12 @@
       "requirement": "手 Q 基础团队，招 iOS - T9/T10/T11。我们负责手 Q 基础架构和工程效能的建设，包含网络通道、消息框架、动态化、Flutter 开源协同、以及性能和稳定性优化等。团队同时负责 iPad、Apple Watch 的适配，并率先将 Catalyst 技术落地 MacQQ。欢迎加入 QQ 基础团队，探索无限可能。",
       "city": ["深圳"],
       "wechat": "yulingtianxia"
+    },
+    {
+      "title": "微信读书/听书 - 客户端开发",
+      "requirement": "熟悉 UIKit、对性能优化、跨平台开发、QMUI 感兴趣的同学，欢迎勾搭",
+      "city": ["广州"],
+      "wechat": "zie996007"
     }
   ]
 }
