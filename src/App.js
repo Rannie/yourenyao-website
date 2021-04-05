@@ -35,8 +35,8 @@ class App extends React.Component {
               renderItem={item => (
                 <List.Item>
                   👋 {item.title} <br/>
-                  工作地点：{item.city.join(",")} <br/>
                   职位要求：{item.requirement} <br/>
+                  工作地点：{item.city.join(",")} <br/>
                   微信联系：{item.wechat}
                 </List.Item>
               )}
