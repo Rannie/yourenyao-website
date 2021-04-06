@@ -69,12 +69,6 @@
       "wechat": "Rico-12138"
     },
     {
-      "title": "得物 - iOS开发",
-      "requirement": "得物客户端队招人，iOS，安卓，Flutter大量招人，感兴趣的同学欢迎私聊~",
-      "city": ["上海"],
-      "wechat": "w995167132"
-    },
-    {
       "title": "字节影像 - 客户端开发",
       "requirement": "剪映/Capcut/轻颜相机/醒图/Faceu的业务，DAU 增长迅速，团队主要使用 Swift/C++，对音视频/图像感兴趣欢迎来聊",
       "city": ["深圳", "广州"],
@@ -85,6 +79,12 @@
       "requirement": "主要负责基础模块及组件的研发和维护，建设、维护快手的性能稳定性监控系统，保障应用的稳定、流畅运行，欢迎有兴趣的同学私聊",
       "city": ["北京", "杭州", "深圳", "上海"],
       "wechat": "tripleCC"
+    },
+    {
+      "title": "得物 - iOS开发",
+      "requirement": "得物客户端队招人，iOS，安卓，Flutter大量招人，感兴趣的同学欢迎私聊~",
+      "city": ["上海"],
+      "wechat": "w995167132"
     },
     {
       "reserved": "DO NOT EDIT THIS BLOCK"
