@@ -61,6 +61,12 @@
       "requirement": "直播是字节的头部业务，对抖音直播相关技术、业务感兴趣的同学欢迎私聊~",
       "city": ["北京", "杭州", "深圳"],
       "wechat": "qiuncheng"
+    },
+    {
+      "title": "字节影像 - 客户端开发",
+      "requirement": "剪映/Capcut/轻颜相机/醒图/Faceu的业务，DAU 增长迅速，团队主要使用 Swift/C++，对音视频/图像感兴趣欢迎来聊",
+      "city": ["深圳", "广州"],
+      "wechat": "cdz1996"
     }
   ]
 }
